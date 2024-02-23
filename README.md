@@ -33,6 +33,10 @@ play
 
 ## PYTHON REPRESENTATION:
 ```
+Developed By: D Vishnu Vardhan
+Reg. No: 212221230023
+```
+```
 MDP = {
     "S": {
          0 : [(0.7, "W", 0, False),(0.3, "S", 1, True)],
